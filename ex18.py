@@ -13,7 +13,7 @@ def print_one(arg1):
 
 # this just takes no arguments
 def print_none():
-    print "I got nothin'."
+    print "I got nothing'."
 
 
 print_two("Zed","Shaw")
